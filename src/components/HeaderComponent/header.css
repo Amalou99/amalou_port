@@ -1,0 +1,49 @@
+/* Header Styles */
+.header {
+  background-color: rgb(244, 244, 244);
+  color: #0a0707;
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+
+.header-left {
+  flex: 1;
+}
+
+.header-right {
+  flex: 2;
+  text-align: right;
+  margin-right: 10%;
+}
+
+/* Logo Styles */
+.logo {
+  /*color: #0a0707;*/
+  margin-left: 20%; /* Add spacing between logo and other content */
+}
+.secondLogo {
+color: blue;
+}
+
+/* Navigation Styles */
+.nav-list {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-list li {
+  display: inline;
+  margin-right: 20px; /* Add spacing between navigation items */
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: #0a0707;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.nav-list a:hover {
+  text-decoration: underline;
+}
