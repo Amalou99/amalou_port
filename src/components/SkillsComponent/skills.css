@@ -1,0 +1,32 @@
+/* Skills Page Styles */
+.skills-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .skills-content {
+    background-color: #f8f8f8;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .skills-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  
+  /* You can add more styling to match your portfolio's design. */
+  

@@ -1,0 +1,44 @@
+/* About Page Styles */
+.about-page {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #f8f8f8;
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Bio Content Styles */
+  .bio {
+    flex: 1;
+    padding: 0;
+    /*background-color: #f8f8f8;*/
+    /*border: 1px solid #e1e1e1;*/
+    border-radius: 5px;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  /* Full-Width Image Styles */
+  .full-image {
+    max-width: 50%;
+    margin-left: 20px;
+    border-radius: 5px;
+  }
+  
+  .full-image img {
+    width: 100%;
+    height: auto;
+  }

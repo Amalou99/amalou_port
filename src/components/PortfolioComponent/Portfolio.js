@@ -8,8 +8,8 @@ function Portfolio() {
       company: 'kShuttle',
       location: 'Paris, Fr',
       date: 'August 2022 - Present',
-      description: 'Developed web applications and implemented new features, collaborating with cross-functional teams.',
-    },
+      description: 'Participate in the development of the FYL (Follow Your Own) application, which aims to implement a solution for tracking the commitments of BPI France s clients.',
+      },
     {
       jobTitle: 'Front-End Developer',
       company: 'WebDesign Pro',

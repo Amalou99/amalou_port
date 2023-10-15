@@ -34,7 +34,7 @@ color: blue;
 
 .nav-list li {
   display: inline;
-  margin-right: 20px; /* Add spacing between navigation items */
+  margin-right: 50px; /* Add spacing between navigation items */
 }
 
 .nav-list a {

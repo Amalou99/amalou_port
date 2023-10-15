@@ -20,7 +20,9 @@ function Contact() {
   };
 
   return (
-    <div className="contact-page">
+    <div>
+      
+      <div className="contact-page">
       <h2>Contact Me</h2>
       <form onSubmit={handleSubmit} className="contact-form">
         <div className="form-group">
@@ -58,6 +60,9 @@ function Contact() {
         <button type="submit">Submit</button>
       </form>
     </div>
+    
+    </div>
+    
   );
 }
 
